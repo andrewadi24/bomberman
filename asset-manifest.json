@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/bomberman/static/css/main.66e22c7b.css",
-    "main.js": "/bomberman/static/js/main.c8bc6695.js",
+    "main.css": "/bomberman/static/css/main.fdac7742.css",
+    "main.js": "/bomberman/static/js/main.b6da376a.js",
     "static/js/787.070db070.chunk.js": "/bomberman/static/js/787.070db070.chunk.js",
     "static/media/logo.svg": "/bomberman/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/bomberman/index.html",
-    "main.66e22c7b.css.map": "/bomberman/static/css/main.66e22c7b.css.map",
-    "main.c8bc6695.js.map": "/bomberman/static/js/main.c8bc6695.js.map",
+    "main.fdac7742.css.map": "/bomberman/static/css/main.fdac7742.css.map",
+    "main.b6da376a.js.map": "/bomberman/static/js/main.b6da376a.js.map",
     "787.070db070.chunk.js.map": "/bomberman/static/js/787.070db070.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.66e22c7b.css",
-    "static/js/main.c8bc6695.js"
+    "static/css/main.fdac7742.css",
+    "static/js/main.b6da376a.js"
   ]
 }
